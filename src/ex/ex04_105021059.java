@@ -16,7 +16,7 @@ public class ex04_105021059 {
 	   sum = sum+((int)v1)%10 ;
 	   v1= v1/10;
    }
-     System.out.print(sum);
+     System.out.println(sum);
 			   
    
    

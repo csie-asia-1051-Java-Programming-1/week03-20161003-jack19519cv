@@ -5,7 +5,6 @@ public class hw01_105021059 {
  * Author: 105021059 王俊鑌
  */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);
 		int n = scn.nextInt();
 		int a = 0;
@@ -13,7 +12,7 @@ public class hw01_105021059 {
 			n= n/10;
 			a=a+1;
 		}
-		System.out.print(a);
+		System.out.println(a);
 		}
 		
 	

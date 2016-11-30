@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class hw02_105021059 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int p=0, n=0, z=0, i;
         int sc[] = new int[10];
         Scanner scn = new Scanner(System.in);
